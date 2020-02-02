@@ -1,0 +1,6 @@
+[alias]
+	c = commit
+	co = checkout
+	st = status
+	p = push
+	pl = pull
