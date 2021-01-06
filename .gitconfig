@@ -1,6 +1,11 @@
+[user]
+	email = m.haracewiat@gmail.com
+	name = Michał Haracewiat
+
 [alias]
-	c = commit
-	co = checkout
-	st = status
+	br = branch
+	ci = commit
+	co = chckout
 	p = push
-	pl = pull
+	pl = pull -r
+	st = status
