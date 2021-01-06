@@ -1,7 +1,3 @@
-[user]
-	email = m.haracewiat@gmail.com
-	name = Michał Haracewiat
-
 [alias]
 	br = branch
 	ci = commit
@@ -9,3 +5,8 @@
 	p = push
 	pl = pull -r
 	st = status
+[core]
+	editor = vim
+[user]
+	email = m.haracewiat@gmail.com
+	name = Michał Haracewiat
